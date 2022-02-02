@@ -1,0 +1,67 @@
+body{
+    background-image: url(Background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#CopyText{
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    font-family:sans-serif;
+    margin-left: 650px;
+    margin-top: 180px;
+    
+}
+#CopyBtn{
+    height: 60px;
+    width: 90px;
+    text-align: center;
+    font-size: 18px;
+    font-family:sans-serif;
+    color: rgb(12, 12, 12);
+    background-color: chartreuse;
+    padding-top: 8px;
+}
+#Cutme{
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    font-family:sans-serif;
+    margin-left: 650px;
+    margin-top: 180px;
+}
+#CutBtn{
+    height: 60px;
+    width: 90px;
+    text-align: center;
+    font-size: 18px;
+    font-family:sans-serif;
+    color: rgb(12, 12, 12);
+    background-color: chartreuse;
+    padding-top: 8px;
+}
+#Pasteinput{
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    align-items: center;
+    font-size: 25px;
+    font-family:sans-serif;
+    margin-left: 650px;
+    margin-top: 180px;
+}
+#PasteBtn{
+    height: 60px;
+    width: 90px;
+    text-align: center;
+    font-size: 18px;
+    font-family:sans-serif;
+    color: rgb(12, 12, 12);
+    background-color: chartreuse;
+    padding-top: 8px;
+    
+}
